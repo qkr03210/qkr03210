@@ -8,7 +8,7 @@
 <!-- ![qkr03210's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkr03210&show_icons=true&theme=highcontrast) -->
 </p>
 
-### 💜 Career
+### 💜 Education
 <p align="center">
 
  |                  | Date                        | Contents             |  Organization |
@@ -28,20 +28,15 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=TeamProject)](https://github.com/qkr03210/TeamProject) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=JSP_Festival)](https://github.com/qkr03210/JSP_Festival)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=JSP_Festival)](https://github.com/qkr03210/JSP_Festival) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=MyUniversityRepository)](https://github.com/qkr03210/MyUniversityRepository)
 
 </p>
 <br/>
 <p align="center">
 
-### 🌀 Languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkr03210&layout=compact)](https://github.com/qkr03210/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkr03210)](https://github.com/qkr03210/github-readme-stats) -->
-
 </p>
-<!-- 
+
 #### 💌  Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkr03210@gmail.com)](mailto:qkr03210@gmail.com)
 
- -->
+
